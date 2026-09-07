@@ -41,6 +41,7 @@ robust-tracking-control-2m-telescope/
 ## How to run
 
 Follow these steps **in the exact order** to reproduce the results:
+
 ---
 
 ### Step 1: Open the MATLAB project

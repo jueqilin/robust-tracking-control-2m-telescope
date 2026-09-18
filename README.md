@@ -48,7 +48,7 @@ Double-click this file to open the MATLAB Project. This automatically:
  
 By default, `main.mlx` solves for parameters based on Simulation 1.
 If you need to change the simulation mode, 
-**modify `MODE` before opening the project or re-run `main.mlx`** 
+**modify `MODE` before opening the project or then re-run `main.mlx`** 
 
 ### Step 2: Open and run Simulink model
 **File**: `ControlSystemSimulation.slx`

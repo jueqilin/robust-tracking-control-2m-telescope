@@ -1,21 +1,49 @@
-MIT License
+SOURCE-AVAILABLE LICENSE — PRIOR WRITTEN PERMISSION REQUIRED
 
-Copyright (c) 2026 jueqilin
+Copyright (c) 2026 jueqilin. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+These terms apply to the source code and associated documentation in this repository (the “Software”), except for materials expressly identified as being subject to other terms.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Public Inspection
+
+The Software is publicly available for viewing and inspection. Public availability does not grant permission to execute, modify, redistribute, or otherwise reuse the Software.
+
+3. Prior Written Permission
+
+Except as permitted by applicable law, GitHub’s Terms of Service, or a separate written authorization from the copyright holder, you must obtain the copyright holder’s prior written permission before:
+
+(a) running or executing the Software, including for reproducing published results;
+
+(b) using the Software for academic, research, educational, personal, internal, or commercial purposes;
+
+(c) modifying, adapting, translating, or creating derivative works of the Software;
+
+(d) incorporating all or any part of the Software into another project, product, or service; or
+
+(e) redistributing, publishing, sublicensing, or selling the Software or modified versions of it.
+
+Downloading or obtaining a copy of the Software does not, by itself, grant permission for any of these activities.
+
+4. Permission Requests
+
+Send permission requests to:
+
+jueqilin@seu.edu.cn
+
+Please identify the requested version or commit, the intended use, and whether modification or redistribution is proposed.
+
+Permission is granted only through an express written authorization from the copyright holder and is limited to the scope stated in that authorization. Silence or failure to respond does not constitute permission. Citation or acknowledgment alone does not substitute for permission.
+
+5. Existing Rights and Third-Party Materials
+
+These terms do not revoke or restrict rights previously granted under the MIT License or another applicable license.
+
+Third-party materials remain subject to their respective licenses. Nothing in these terms overrides rights granted by applicable law or GitHub’s Terms of Service.
+
+6. Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.

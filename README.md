@@ -66,8 +66,9 @@ Depending on the mode selected in Step 2, run the corresponding analysis script
 
 ## Usage Policy
 
-The code and data provided in this repository are for reference only. 
-Any use of the code or data requires prior permission from the author. 
-Please contact the author to obtain access.
+The source code is publicly available for inspection.
+Running, modifying, redistributing, or otherwise reusing the code requires prior written permission from the copyright holder.
 
-Email: jueqilin@seu.edu.cn
+To request permission, please contact: **jueqilin@seu.edu.cn**
+
+See the LICENSE file for details.

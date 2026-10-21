@@ -6,9 +6,8 @@ algorithm for 2m-class optical telescopes.
 The framework handles system uncertainties, external disturbances, 
 and measurement noise while ensuring high-precision tracking performance.
 
----
-
 ## Prerequisites
+
 Before running the code, ensure your environment meets the following requirements:
 
 - **MATLAB Version**: R2023a or later
@@ -18,8 +17,6 @@ Before running the code, ensure your environment meets the following requirement
   - [YALMIP Toolbox](https://yalmip.github.io/) 
   - [MOSEK Solver](https://www.mosek.com/) 
 - **MATLAB Live Editor** (required for `.mlx` files)
-
----
 
 ## Project Structure
 
@@ -36,13 +33,10 @@ robust-tracking-control-2m-telescope/
 └── Robusttrackingcontrol2mtelescope.prj    # MATLAB Project file
 ```
 
----
 
 ## How to run
 
 Follow these steps **in the exact order** to reproduce the results:
-
----
 
 ### Step 1: Open the MATLAB project
 **File**: `Robusttrackingcontrol2mtelescope.prj`  
@@ -54,7 +48,7 @@ Double-click this file to open the MATLAB Project. This automatically:
  
 By default, `main.mlx` solves for parameters based on Simulation 1.
 If you need to change the simulation mode, 
-**modify `MODE` before opening the project or re-run `main.mlx`** 
+**modify `MODE` before opening the project or then re-run `main.mlx`** 
 
 ### Step 2: Open and run Simulink model
 **File**: `ControlSystemSimulation.slx`

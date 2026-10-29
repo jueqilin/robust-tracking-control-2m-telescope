@@ -74,6 +74,6 @@ To request permission, please contact: **jueqilin@seu.edu.cn**
 If you use this code, or results obtained using it, in a scientific
 publication, you must cite the following paper:
 
-Jueqi Lin, Zheng Wang, Observer-based robust tracking control for 2m-class optical telescope under uncertain conditions, J. Astron. Telesc. Instrum. Syst. 12(4), 049001 (2026), doi: 10.1117/1.JATIS.12.4.049001.
+**Jueqi Lin, Zheng Wang, Observer-based robust tracking control for 2m-class optical telescope under uncertain conditions, J. Astron. Telesc. Instrum. Syst. 12(4), 049001 (2026), doi: 10.1117/1.JATIS.12.4.049001.**
 
 See the LICENSE file for details.
